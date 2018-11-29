@@ -1,5 +1,5 @@
 {
-    "name": "jameslkingsley/nova-stripe-theme",
+    "name": "aonic/nova-stripe-theme",
     "description": "A Laravel Nova theme closely resembling Stripe.",
     "keywords": [
         "laravel",

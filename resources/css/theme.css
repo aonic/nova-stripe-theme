@@ -22,6 +22,11 @@
     --shadow-card: 0 7px 14px 0 rgba(59,65,94,.1), 0 3px 6px 0 rgba(0,0,0,.07);
 }
 
+html.font-sans {
+    font-size: 0.9em;
+    line-height: 1.4em;
+}
+
 #nova > div > .content > .bg-white {
     background: transparent;
     box-shadow: none;
@@ -36,7 +41,7 @@
 }
 
 .bg-grad-sidebar {
-    width: 250px;
+    width: 175px;
     background: transparent;
 }
 
@@ -55,7 +60,7 @@
 }
 
 .bg-grad-sidebar a:not(.sidebar-label) {
-    margin-left: 1.75rem;
+    margin-left: 0rem;
 }
 
 .sidebar-label {
